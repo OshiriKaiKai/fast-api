@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Crucial for uv)
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
